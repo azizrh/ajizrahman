@@ -1,4 +1,6 @@
 program find_root
+#this program using 4 methods to find roots of function. bisection, false position,  newton-raphson, and secant
+
 
 implicit none
 integer,parameter::dprec=kind(1.0d0)
